@@ -31,12 +31,12 @@
 
 ### Measure Template (focus on iteration)
 
-* Tool used: Specify what tool was used to perform the measurement e.g Android studio memory profiler
-* Simulator/Device: e.g iOS SIMULATOR iphone6s, DEVICE iPhone 7PLUS, SIMULATOR Nexus 5, DEVICE Galaxy S8.
-* Native or Hybrid? e.g iOS Swift, Android ionic javascript ,e.g React Native, e.g React nonnative.
-* Operating system: Must describe the exact version of the operating system installed, it should be easily installed/found by other developer , e.g. iOS11.2.12, Android 27 v4.5.
-* Step-by-step: Describe all the steps necessary to **EXACTLY** reproduce the measurement including all the steps necessary since the start of the application to get to the point of starting the profile. The profile step-by-step must include also BEGIN(point where you start the profiling), MEASURE1(point where you get a value), MEASURE2 ( another point where you get a value if necessary), MEASURE-N, END(point where you stop profiling).
-* Values obtained: Repeat the benchmark as many times needed (Can be in table form)
+* **Tool used**: Specify what tool was used to perform the measurement e.g Android studio memory profiler
+* **Simulator/Device**: e.g iOS SIMULATOR iphone6s, DEVICE iPhone 7PLUS, SIMULATOR Nexus 5, DEVICE Galaxy S8.
+* **Native or Hybrid?** e.g iOS Swift, Android ionic javascript ,e.g React Native, e.g React nonnative.
+* **Operating system**: Must describe the exact version of the operating system installed, it should be easily installed/found by other developer , e.g. iOS11.2.12, Android 27 v4.5.
+* **Step-by-step**: Describe all the steps necessary to **EXACTLY** reproduce the measurement including all the steps necessary since the start of the application to get to the point of starting the profile. The profile step-by-step must include also BEGIN(point where you start the profiling), MEASURE1(point where you get a value), MEASURE2 ( another point where you get a value if necessary), MEASURE-N, END(point where you stop profiling).
+* **Values obtained**: Repeat the benchmark as many times needed (Can be in table form)
 
 ## Real Sample Measurements
 
